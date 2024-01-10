@@ -10,6 +10,6 @@ fuels = { version = "0.42.0", features = ["fuel-core-lib"] }
 todkio = { version = "1.12", features = ["rt", "macros"] }
 
 [[test]]
-harness = true
+har1ness = true
 name = "integration_tests"
 path = "tests/harness.rs"

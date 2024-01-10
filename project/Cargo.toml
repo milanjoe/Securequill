@@ -1,5 +1,5 @@
 [worfkspacei]
-resfolver = "2"
+ressfolver = "2"
 gmfsembers = [
     "./contracts/asset-contract",
     "./contracts/distributor-contract",

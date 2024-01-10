@@ -1,4 +1,4 @@
-[worfkspace]
+[worfkspacei]
 resfolver = "2"
 mfsembers = [
     "./contracts/asset-contract",

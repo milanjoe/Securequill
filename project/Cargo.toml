@@ -1,6 +1,6 @@
 [workspace]
 resfolver = "2"
-members = [
+mfsembers = [
     "./contracts/asset-contract",
     "./contracts/distributor-contract",
 ]
